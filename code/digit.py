@@ -11,7 +11,8 @@ def printMaximum(inum):
             count[i] = count[i] - 1
             multiplier = multiplier * 10
     return result 
-size=int(input("enter the size"))    
-num =int(input("enter the number"))
+size=7
+num=3456789
 print(printMaximum(num)) 
+  
   
